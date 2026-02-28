@@ -11,7 +11,7 @@ export default function GetStartedPage() {
 
       {/* 🔮 Page Background */}
       <Image
-        src="/background.png"
+        src="/images/onboardingbackground.png"
         alt="background"
         fill
         priority
@@ -40,7 +40,7 @@ export default function GetStartedPage() {
           {/* Logo */}
           <div className="mx-auto mb-8 w-40 h-40 rounded-full overflow-hidden border border-white/30 shadow-xl">
             <Image
-              src="/logo.png"
+              src="/images/onboardinglogo.png"
               alt="Qarisma Logo"
               width={200}
               height={200}
